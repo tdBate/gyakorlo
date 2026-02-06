@@ -27,5 +27,5 @@ async function F02() {
 
 
 
-F01();
-F02();
+await F01();
+await F02();
